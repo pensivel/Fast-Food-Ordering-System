@@ -1,0 +1,30 @@
+# Maven build
+**/target/
+**/build/
+
+# IDE - IntelliJ IDEA
+.idea/
+*.iml
+
+# IDE - Visual Studio Code
+.vscode/
+
+# Logs
+*.log
+
+# Operating System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Temporary files
+*.tmp
+*.bak
+
+# Compiled Java files
+*.class
